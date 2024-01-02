@@ -1,0 +1,10 @@
+[2023-12-22 15:04:48] [INFO ] [BaseTest_Core] - Scenario 1: Dealer Backward Order
+[2023-12-22 15:04:48] [INFO ] [BaseTest_Core] - Account Url..https://uat-erp-dealer.mazda.com.au/Accounts/ui/
+[2023-12-22 15:04:57] [INFO ] [BaseTest_Core] - Scenario 2: Import File for Dealer Forward Orders
+[2023-12-22 15:04:57] [INFO ] [BaseTest_Core] - MCOrder Url..https://uat-erp-dealer.mazda.com.au/MCOrders/ui/
+[2023-12-22 15:04:59] [INFO ] [BaseTest_Core] - Scenario 3: Fully Met Dealer Vehicle Orders
+[2023-12-22 15:04:59] [INFO ] [BaseTest_Core] - Vehicle Url..https://uat-erp-dealer.mazda.com.au/Vehicles/ui/
+[2023-12-22 15:05:01] [INFO ] [BaseTest_Core] - Scenario 4: Partially Met Dealer Vehicle Orders
+[2023-12-22 15:05:01] [INFO ] [BaseTest_Core] - Vehicle Url..https://uat-erp-dealer.mazda.com.au/Vehicles/ui/
+[2023-12-22 15:05:03] [INFO ] [BaseTest_Core] - Scenario 5: MC Order(Finalize forward order SOP%)
+[2023-12-22 15:05:03] [INFO ] [BaseTest_Core] - MCOrder Url..https://uat-erp-dealer.mazda.com.au/MCOrders/ui/

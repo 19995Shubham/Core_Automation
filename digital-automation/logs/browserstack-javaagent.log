@@ -1,0 +1,91 @@
+23:34:31.495 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+23:34:31.503 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+23:34:32.339 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+23:34:32.678 [main] WARN  c.b.config.BrowserStackConfig - Framework Detected Mismatch, Framework Detected - java but Framework provided in browserstack.yml - cucumber-testng
+23:34:34.539 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+23:34:39.578 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:34:39.578 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:35:32.808 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:35:47.139 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+23:35:47.499 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0cd2a0336a66d250cd7cb9d05b7401ab5a379fad
+23:35:47.500 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:50.726 [Thread-7] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+23:39:08.422 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+23:39:08.432 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+23:39:08.987 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+23:39:09.189 [main] WARN  c.b.config.BrowserStackConfig - Framework Detected Mismatch, Framework Detected - java but Framework provided in browserstack.yml - cucumber-testng
+23:39:10.339 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+23:39:14.932 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:39:14.932 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:39:20.825 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:39:33.020 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+23:39:34.121 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2b08453d23d5f38876278c22ffc36251fae0b5ac
+23:39:34.122 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:39:35.786 [Thread-7] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+23:40:36.545 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+23:40:36.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+23:40:37.113 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+23:40:37.321 [main] WARN  c.b.config.BrowserStackConfig - Framework Detected Mismatch, Framework Detected - java but Framework provided in browserstack.yml - cucumber-testng
+23:40:38.456 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+23:40:43.193 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:40:43.193 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:40:49.696 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:41:03.427 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+23:41:03.777 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/5dadb5be99a71f7bb1cd731dafa9d8961cf9ad52
+23:41:03.777 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:41:06.222 [Thread-7] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+23:45:44.565 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+23:45:44.565 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+23:45:45.122 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+23:45:45.335 [main] WARN  c.b.config.BrowserStackConfig - Framework Detected Mismatch, Framework Detected - java but Framework provided in browserstack.yml - cucumber-testng
+23:45:46.505 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+23:45:51.223 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:51.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:45:56.852 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:46:10.519 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+23:46:10.861 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2e9ac713810017ee944403b1a26b6da66d120498
+23:46:10.861 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:13.461 [Thread-7] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+23:52:31.696 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+23:52:31.703 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+23:52:32.264 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+23:52:32.472 [main] WARN  c.b.config.BrowserStackConfig - Framework Detected Mismatch, Framework Detected - java but Framework provided in browserstack.yml - cucumber-testng
+23:52:33.636 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+23:52:38.365 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:38.365 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+23:52:44.107 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+23:53:00.120 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ to view build report, insights, and many more debugging information all at one place!
+
+23:53:00.504 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8fbca7f183bf57d2bbacda840e9309f3805b1eed
+23:53:00.504 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:02.860 [Thread-7] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+16:38:02.017 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+16:38:02.017 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:38:02.573 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+16:38:02.788 [main] WARN  c.b.config.BrowserStackConfig - Framework Detected Mismatch, Framework Detected - java but Framework provided in browserstack.yml - cucumber-testng
+16:38:03.949 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+16:38:08.854 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:38:16.529 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:38:24.612 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rpnbbgrw2nh2pxp9utqly4vqtb17qcu6zpeujyow to view build report, insights, and many more debugging information all at one place!
+
+16:41:20.831 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.8.3
+16:41:20.831 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:41:21.570 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+16:41:22.977 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+16:41:25.737 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+16:41:26.335 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:41:32.389 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:41:35.049 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+16:41:35.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+16:41:35.477 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Core Automation\digital-automation\browserstack.yml
+16:41:40.806 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+16:41:41.586 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.IllegalArgumentException: path must exist: C:\Core
+16:41:41.819 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+16:41:41.920 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+16:41:42.351 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.IllegalArgumentException: path must exist: C:\Core
+16:41:42.505 [main] ERROR c.b.utils.GlobalExceptionHandler - Global SDK Exception - java.lang.IllegalArgumentException: path must exist: C:\Core
+16:41:46.064 [Thread-7] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.

@@ -1,0 +1,4 @@
+rootProject.name = 'Core Automation'
+
+include 'common', 'digital-automation', 'testing-automation'
+

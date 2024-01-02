@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/common/.gradle/
+/common/build/
+/common/build/classes/java/main/
+/digital-automation/.gradle/
+/digital-automation/build/
+/digital-automation/build/classes/java/test/
+/testing-automation/.gradle/
+/testing-automation/build/
+/testing-automation/build/classes/java/test/

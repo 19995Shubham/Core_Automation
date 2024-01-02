@@ -1,0 +1,53 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'junit:junit:4.13.2'
+    implementation 'io.cucumber:cucumber-java:7.11.1'
+    testImplementation 'io.cucumber:cucumber-junit:7.11.1'
+    implementation 'com.aventstack:extentreports:5.0.9'
+    implementation'tech.grasshopper:extentreports-cucumber7-adapter:1.7.0'
+    implementation 'io.github.bonigarcia:webdrivermanager:5.5.3'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.8.3'
+    implementation 'io.appium:java-client:8.3.0'
+    implementation 'org.apache.logging.log4j:log4j-core:2.22.0'
+    implementation 'org.apache.logging.log4j:log4j-api:2.22.0'
+    implementation project(':common')
+}
+
+//group = 'com.browserstack'
+//version = '1.0-SNAPSHOT'
+//description = 'cucumber-java-browserstack'
+//sourceCompatibility = '1.8'
+//targetCompatibility = '1.8'
+//
+//def browserstackSDKArtifact = configurations.compileClasspath.resolvedConfiguration.resolvedArtifacts
+//        .find { it.name == 'browserstack-java-sdk' }
+
+//tasks.withType(JavaCompile) {
+//    options.encoding = 'UTF-8'
+//}
+
+//tasks.withType(Test) {
+//    systemProperties = System.properties as Map<String, ?>
+//}
+
+//task sampleTest(type: Test) {
+//    systemProperty "cucumber.publish.quiet", "true"
+//    systemProperty "cucumber.features", "src/test/resources/features"
+//    systemProperties System.getProperties()
+//
+//    // Use JUnit 4
+//    useJUnit {
+//        include 'Runner.TestRunner'
+//        jvmArgs "-javaagent:${browserstackSDKArtifact.file}"
+//    }
+//
+//    scanForTestClasses = false
+//
+//}

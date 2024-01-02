@@ -1,0 +1,58 @@
+﻿[2023-12-15 04:35:52] [INFO ] [BaseTest] - Account Url..https://uat-erp-dealer.mazda.com.au/Accounts/ui/
+[2023-12-15 04:35:58] [INFO ] [loginPage] - Logged in User Name is: SGROSDANIS
+[2023-12-15 04:36:01] [INFO ] [loginPage] - Required Menu: Accounts
+[2023-12-15 04:36:01] [INFO ] [loginPage] - Required Sub menu: Trader Details
+[2023-12-15 04:36:14] [INFO ] [BackForwardFirmOrderStepDefinition] - Current Url is: https://uat-erp-dealer.mazda.com.au/Accounts/ui/accounting/trader-maintenance
+[2023-12-15 04:36:14] [INFO ] [BaseTest] - Vehicle Url..https://uat-erp-dealer.mazda.com.au/Vehicles/ui/
+[2023-12-15 04:36:15] [INFO ] [loginPage] - Logged in User Name is: MAL0008.R390705
+[2023-12-15 04:36:22] [INFO ] [loginPage] - Required Menu: Orders
+[2023-12-15 04:36:22] [INFO ] [loginPage] - Required Sub menu: Vehicle Order
+[2023-12-15 04:36:35] [INFO ] [BackForwardFirmOrderStepDefinition] - Searched Vehicle with model: “200SAH5G15P” and color: “25D” and trim: “D4H”
+[2023-12-15 04:36:40] [INFO ] [BackForwardFirmOrderStepDefinition] - Clicked on Search Button after entering required details of vehicle
+[2023-12-15 04:36:50] [INFO ] [BackForwardFirmOrderStepDefinition] - No Vehicle Toast Message should be..Not Found /n“No vehicle was found”
+[2023-12-15 04:37:00] [INFO ] [BackForwardFirmOrderStepDefinition] - Back Order Toast Message should be..Order Placed successfully /nVehicle has been ordered.
+[2023-12-15 04:37:00] [INFO ] [loginPage] - Required Menu: Enquiries
+[2023-12-15 04:37:00] [INFO ] [loginPage] - Required Sub menu: Stock Locator
+[2023-12-15 04:37:16] [INFO ] [stockLocatorPage] - Page Title..Stock Locator
+[2023-12-15 04:37:16] [INFO ] [BackForwardFirmOrderStepDefinition] - Landed on Stock Locator Page
+[2023-12-15 04:37:27] [INFO ] [stockLocatorPage] - Expected folder name..//li[@role='treeitem']//span[contains(text(),'BACK ORDER')]
+[2023-12-15 04:37:37] [INFO ] [BackForwardFirmOrderStepDefinition] - Validated Requested number is:68561
+[2023-12-15 04:37:37] [INFO ] [BaseTest] - Account Url..https://uat-erp-dealer.mazda.com.au/Accounts/ui/
+[2023-12-15 04:37:47] [INFO ] [BaseTest] - MCOrder Url..https://uat-erp-dealer.mazda.com.au/MCOrders/ui/
+[2023-12-15 04:37:48] [INFO ] [loginPage] - Logged in User Name is: SBZHOU
+[2023-12-15 04:37:49] [INFO ] [loginPage] - Required Menu: Forward Orders
+[2023-12-15 04:37:49] [INFO ] [loginPage] - Required Sub menu: Load Forward Orders
+[2023-12-15 04:37:54] [INFO ] [loadForwardOrderPage] - Page Title..Forward Order Allocation Download
+[2023-12-15 04:37:54] [INFO ] [loadForwardOrderPage] - Entered forward ID is: A23-11-2
+[2023-12-15 04:37:55] [INFO ] [BackForwardFirmOrderStepDefinition] - Clicked on Button: Load Allocations
+[2023-12-15 04:37:58] [INFO ] [BackForwardFirmOrderStepDefinition] - Clicked on Button: Check Forward Order
+[2023-12-15 04:38:08] [INFO ] [BackForwardFirmOrderStepDefinition] - Text file imported successfully and File path is: C:\Core Automation\testing-automation\src\test\resources\property\FO A23-11-1.txt
+[2023-12-15 04:38:09] [INFO ] [BackForwardFirmOrderStepDefinition] - Forward Order Share of Productions not configured pop-up Displayed
+[2023-12-15 04:38:09] [INFO ] [loadForwardOrderPage] - Total Forward Order: 135
+[2023-12-15 04:38:09] [INFO ] [BackForwardFirmOrderStepDefinition] - Click on first forward group
+[2023-12-15 04:38:09] [INFO ] [loadForwardOrderPage] - Total Expected Forward Order: 135
+[2023-12-15 04:38:09] [INFO ] [BackForwardFirmOrderStepDefinition] - Validated total forward group
+[2023-12-15 04:38:09] [INFO ] [BackForwardFirmOrderStepDefinition] - Forward order saved successfully
+[2023-12-15 04:38:09] [INFO ] [BaseTest] - Account Url..https://uat-erp-dealer.mazda.com.au/Accounts/ui/
+[2023-12-15 04:38:18] [INFO ] [BackForwardFirmOrderStepDefinition] - Current Url is: https://uat-erp-dealer.mazda.com.au/Accounts/ui/
+[2023-12-15 04:38:18] [INFO ] [BaseTest] - Vehicle Url..https://uat-erp-dealer.mazda.com.au/Vehicles/ui/
+[2023-12-15 04:38:19] [INFO ] [loginPage] - Logged in User Name is: RGU0005.W392757
+[2023-12-15 04:38:19] [INFO ] [loginPage] - Password is: password
+[2023-12-15 04:38:28] [INFO ] [loginPage] - Required Menu: Orders
+[2023-12-15 04:38:28] [INFO ] [loginPage] - Required Sub menu: Forward Order Entry
+[2023-12-15 04:38:34] [INFO ] [forwardOrderEntryPage] - Page Title..Vehicle Forward Orders
+[2023-12-15 04:38:34] [INFO ] [BackForwardFirmOrderStepDefinition] - Forward Entry page components: [Ljava.lang.String;@5ed31735
+[2023-12-15 04:38:34] [INFO ] [BackForwardFirmOrderStepDefinition] - Expected cut off date is: null
+[2023-12-15 04:38:35] [INFO ] [BackForwardFirmOrderStepDefinition] - Forward Id selected from dropdown is: null
+[2023-12-15 04:38:45] [INFO ] [BackForwardFirmOrderStepDefinition] - Select multiple rows from back order for model: 200SAH5G15P
+[2023-12-15 04:38:50] [INFO ] [BackForwardFirmOrderStepDefinition] - Clicked on Fill selected Back orders button
+[2023-12-15 04:38:50] [INFO ] [forwardOrderEntryPage] - Clicked on SOP Summary
+[2023-12-15 04:38:50] [INFO ] [BackForwardFirmOrderStepDefinition] - Title of the pop-up: Forward Order SOP Summary
+[2023-12-15 04:38:53] [INFO ] [loginPage] - Required Menu: Enquiries
+[2023-12-15 04:38:53] [INFO ] [loginPage] - Required Sub menu: Stock Locator
+[2023-12-15 04:39:04] [INFO ] [stockLocatorPage] - Expected folder name..//li[@role='treeitem']//span[contains(text(),'FORWARD ORDER')]
+[2023-12-15 04:39:06] [INFO ] [BackForwardFirmOrderStepDefinition] - Total forward count is: 11
+[2023-12-15 04:39:06] [INFO ] [BaseTest] - Account Url..https://uat-erp-dealer.mazda.com.au/Accounts/ui/
+[2023-12-15 04:39:15] [INFO ] [BaseTest] - MCOrder Url..https://uat-erp-dealer.mazda.com.au/MCOrders/ui/
+[2023-12-15 04:39:16] [INFO ] [loginPage] - Logged in User Name is: SBZHOU
+[2023-12-15 04:39:16] [INFO ] [loginPage] - Password is: password
